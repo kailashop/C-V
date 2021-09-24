@@ -1,0 +1,53 @@
+
+h3{
+    color: #406343;
+}
+
+h1{
+    color: #32502e;
+
+}
+
+body{
+    background-color:#f3fcc2 ;
+}
+
+hr{
+    border-color: #32502e;
+  border-style: dotted none none none;
+  border-width: 5px;
+  width: 10%;
+}
+
+#end-hr{
+    border-style: dotted none none none;
+}
+
+#contact-me-align{
+    text-align: right;
+}
+
+#contact-me-color{
+    color: #40514a; 
+}
+
+#header{
+    color: #40514a;
+    border-style: inset none none none;
+    width: 100%;
+}
+
+#cv{
+    color: darkgrey;
+    text-align: center;
+}
+
+
+
+
+
+
+
+  
+
+
